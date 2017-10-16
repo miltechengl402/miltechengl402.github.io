@@ -1,4 +1,5 @@
 body{
+	font-family:sans-serif;
 }
 
 header{
@@ -7,6 +8,9 @@ header{
 }
 h1{
 	margin-left:10%;
+}
+.red{
+	color:red;
 }
 #nav{
 	background-color:black;
