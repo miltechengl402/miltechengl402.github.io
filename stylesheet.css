@@ -71,6 +71,12 @@ main{
 article h2{
 	margin-bottom:-10px;
 }
+article ul{
+	list-style:none;
+}
+.source{
+	font-sizes:.6em;
+}
 aside{
 	width:28%;
 	text-align:center;
@@ -108,6 +114,14 @@ aside a{
 #articles a{
 	color:gray;
 	text-decoration:none;
+}
+
+footer{
+	clear:both;
+	width:100%;
+	background-color:black;
+	color:#7F7F7F;
+	text-align:center;
 }
 
 img{
