@@ -56,9 +56,15 @@ main{
 	margin:5px 3px;
 	padding:0px 5px;
 	width:15%;
+	vertical-align:top;
+}
+#content a{
+	color:black;
+	text-decoration:none;
 }
 #content span{
 	font-size:.8em;	
+	display:block;
 }
 #articles{
 	width:68%;
