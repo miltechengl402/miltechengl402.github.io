@@ -3,9 +3,8 @@ body{
 	background:linear-gradient(lightgray 5%, white 15%);
 }
 
-header{
-	width:60%;
-
+#header{
+	background-image:url("http://3.bp.blogspot.com/-k3OwwXfg5Bs/U1kKsL5wxtI/AAAAAAAAFX0/nzAHae7ubfo/s1600/1500x500-American-Flag-Twitter-Header002.jpg");
 }
 h1{
 	text-align:left;
@@ -15,9 +14,12 @@ h1{
 .red{
 	color:red;
 }
+.blue{
+	color:blue;
+}
 #nav{
-	background-image:url("http://3.bp.blogspot.com/-k3OwwXfg5Bs/U1kKsL5wxtI/AAAAAAAAFX0/nzAHae7ubfo/s1600/1500x500-American-Flag-Twitter-Header002.jpg");
 	text-align:center;
+	background-color:black;
 }
 #nav h3{
 	background-color:white;
