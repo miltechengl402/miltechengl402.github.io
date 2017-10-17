@@ -1,6 +1,7 @@
 body{
 	font-family:sans-serif;
-	background:linear-gradient(lightgray 5%, white 15%);
+	#background:linear-gradient(lightgray 5%, white 15%);
+	background: repeating-linear-gradient(lightgray , white, #883300 );
 }
 
 #header{
@@ -150,9 +151,11 @@ article ul li{
 footer{
 	clear:both;
 	width:100%;
-	background-color:black;
-	color:#7F7F7F;
+	height:20em;
+	background-image:url("footer.jpg");
+	color:#888866;
 	text-align:center;
+	vertical-align:top;
 }
 
 img{
