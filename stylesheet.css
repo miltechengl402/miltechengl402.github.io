@@ -125,6 +125,9 @@ aside a{
 	color:gray;
 	text-decoration:none;
 }
+article ul li{
+	margin-bottom:.6em;
+}
 
 footer{
 	clear:both;
